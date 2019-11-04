@@ -1,4 +1,4 @@
-# -Java_Script
+# Java_Script
 
 Analyize UFO Sighting data and create a table dynamically based upon the dataset. Allow users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
